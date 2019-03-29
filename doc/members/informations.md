@@ -10,7 +10,7 @@
 | [ELLIOT](https://github.com/chanjjaeseo) | √ | × | 未开始 | |
 | [你笑的好美啊](https://github.com/shen13380308088) | √ | × | 未开始 | |
 | [沐声](https://github.com/LingBengYing) | √ | × | 未开始 | |
-| [张齐豪]()| √ | × | 未开始 | |
+| [张齐豪](https://github.com/TIANTIANSTUDY)| √ | × | 未开始 | |
 | [leeyiyu](https://github.com/leeyiyu)| √ | × | 未开始 | |
 
 ## 入门任务
