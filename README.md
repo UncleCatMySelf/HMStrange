@@ -18,6 +18,7 @@
 ## 项目组成员信息
 
 * [HMStrange-项目组成员信息表](doc/members/informations.md)
+* [HMStrange-项目组组织合作规范](doc/members/specification.md)
 
 ## 下载地址
 

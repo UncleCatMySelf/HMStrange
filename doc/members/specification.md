@@ -19,5 +19,5 @@
 
 **组员签名（签组员昵称以示认同），请以纸质图片上传：**
 
-
+![MySelf 个人签名](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/%E7%BB%84%E7%BB%87%E8%A7%84%E8%8C%83%E7%AD%BE%E5%90%8D.png)
 
