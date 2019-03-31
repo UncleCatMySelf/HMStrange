@@ -14,12 +14,12 @@
 | [leeyiyu](https://github.com/leeyiyu)| √ | × | 未开始 | |
 | [wolf](https://github.com/lvxinqiao)| √ | × | 未开始 | |
 | [末骤雨初歇](https://github.com/wangjiangtao2)| √ | × | 未开始 | |
-| [Noseparte](https://github.com/noseparte/)| √ | × | 未开始 | |
+| [Noseparte](https://github.com/noseparte/)| √ | √ | 未开始 | |
 | [Evans](https://github.com/yangyong1997)| √ | × | 未开始 | |
 
 ## 入门任务
 
-* [初次提交代码指南]()
+* [初次提交代码指南](https://www.imooc.com/article/284151)
 
 ### 加入我们
 
