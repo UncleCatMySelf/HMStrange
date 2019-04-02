@@ -6,7 +6,7 @@
 
 三、每一次项目更新都需要在目录为doc/details/update_record.md的文件上填写更新内容，git commit -am *内容*，代码提交的内容也一样，模板为：核心内容+组员昵称。
 
-四、组织无权向组员过分要求完成任何指定性工作，而是基于组员自愿自足原则，组员有权任意时间推出项目组。
+四、组织无权向组员过分要求完成任何指定性工作，而是基于组员自愿自足原则，组员有权任意时间退出项目组。
 
 五、项目技术文档撰写为每个组员的学习技能之一，希望组员能抽空按照模板，记录自身开发模块相关的技术文档。
 
@@ -16,8 +16,11 @@
 
 八、每个组员都有权测试、发现BUG。
 
-
 **组员签名（签组员昵称以示认同），请以纸质图片上传：**
 
 ![MySelf 个人签名](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/%E7%BB%84%E7%BB%87%E8%A7%84%E8%8C%83%E7%AD%BE%E5%90%8D.png)
+
+![sjt 个人签名](https://raw.githubusercontent.com/wangjiangtao2/img_HMStrange/master/img/%E7%BB%84%E7%BB%87%E8%A7%84%E8%8C%83%E7%AD%BE%E5%90%8Dstj.png)
+
+![Noseparte_个人签名](https://raw.githubusercontent.com/UncleCatMySelf/img_HMStrange/master/img/%E7%BB%84%E7%BB%87%E8%A7%84%E8%8C%83%E7%AD%BE%E5%90%8DNo.jpg)
 
