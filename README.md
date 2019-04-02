@@ -30,7 +30,7 @@
 
 | 成员昵称 | 信息登记表 | 初次提交代码 |阅读规范并手写签名 | 任务执行情况 | 备注 |
 |---------|-----------|-------------|-------------|------|--------|
-| [Chen](https://github.com/CCCCCCCCCCChen) | √ | × | × | 未开始 | |
+| [Chen](https://github.com/CCCCCCCCCCChen) | √ | √ | × | 未开始 | |
 | [ELLIOT](https://github.com/chanjjaeseo) | √ | √ | × | 未开始 | |
 | [你笑的好美啊](https://github.com/shen13380308088) | √ | × | × | 未开始 | |
 | [沐声](https://github.com/LingBengYing) | √ | √ | √ |  未开始 | |
