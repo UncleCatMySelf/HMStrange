@@ -38,8 +38,3 @@
 
 【2019年4月1日】By Chen
 
-
-### 任务完成-基于SpringBoot+Mongo技术，完成HelloWorld项目教程案例；
-
-【2019年4月4日】By Noseparte
-
