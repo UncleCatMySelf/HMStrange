@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.springboot_redis_example.mapper.StudentMapper">
+    <!--BUG一，没有指定别名       -->
+    <resultMap type="com.springboot_redis_example.entity.Student" id="StudentResult">
+        <result property="id"    column="id"    /><!-- property：主键在pojo(简单javabean对象)中的属性名  column：主键在数据库中的列名 -->
+        <result property="age"    column="age"    />
+        <result property="sex"    column="sex"    />
+        <result property="address"    column="address"    />
+    </resultMap>
+
+    <sql id="selectStudentVo">
+        select * from student
+    </sql>
+
+    <select id="selectStudentById" parameterType="Integer" resultMap="StudentResult">
+        <include refid="selectStudentVo"/>
+        where id=#{id}
+    </select>
+
+    <insert id="insertStudent" parameterType="com.springboot_redis_example.entity.Student">
+        insert into student (id,age,sex,address)
+        values (#{id},#{age},#{sex},#{address})
+    </insert>
+
+    <update id="updateStudent" parameterType="com.springboot_redis_example.entity.Student">
+        update student
+        <trim prefix="SET" suffixOverrides=",">
+            <if test="id != null  and id != ''  ">id = #{id},</if>
+            <if test="age != null  and age != ''  ">age = #{age},</if>
+            <if test="sex != null  and sex != ''  ">sex = #{sex},</if>
+            <if test="address != null  and address != ''  ">address = #{address},</if>
+        </trim>
+        where idStudent = #{id}
+    </update>
+
+    <delete id="deleteStudentById" parameterType="Integer">
+        delete from Student where idStudent = #{id}
+    </delete>
+
+</mapper>
+
