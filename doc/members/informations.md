@@ -6,16 +6,16 @@
 
 | 成员昵称 | 信息登记表 | 初次提交代码 |阅读规范并手写签名 | 任务执行情况 | 备注 |
 |---------|-----------|-------------|-------------|------|--------|
-| [Chen](https://github.com/CCCCCCCCCCChen) | √ | √ | × | 未开始 | |
-| [ELLIOT](https://github.com/chanjjaeseo) | √ | √ | × | 未开始 | |
+| [Chen](https://github.com/CCCCCCCCCCChen) | √ | √ | √ | 开始 | |
+| [ELLIOT](https://github.com/chanjjaeseo) | √ | √ | √ | 开始 | |
 | [你笑的好美啊](https://github.com/shen13380308088) | √ | × | × | 未开始 | |
-| [沐声](https://github.com/LingBengYing) | √ | √ | √ |  未开始 | |
-| [TAIN](https://github.com/TIANTIANSTUDY)| √ | √ | √ | 未开始 | |
+| [沐声](https://github.com/LingBengYing) | √ | √ | √ |  开始 | |
+| [TAIN](https://github.com/TIANTIANSTUDY)| √ | √ | √ | 开始 | |
 | [leeyiyu](https://github.com/leeyiyu)| √ | × | × | 未开始 | |
-| [wolf](https://github.com/lvxinqiao)| √ | √ | × | 未开始 | |
-| [末骤雨初歇](https://github.com/wangjiangtao2)| √ | √ | √ | 未开始 | |
-| [Noseparte](https://github.com/noseparte/)| √ | √ | √ | 未开始 | |
-| [Evans](https://github.com/yangyong1997)| √ | √ | × | 未开始 | |
+| [wolf](https://github.com/lvxinqiao)| √ | √ | √ | 开始 | |
+| [末骤雨初歇](https://github.com/wangjiangtao2)| √ | √ | √ | 开始 | |
+| [Noseparte](https://github.com/noseparte/)| √ | √ | √ | 开始 | |
+| [Evans](https://github.com/yangyong1997)| √ | √ | √ | 开始 | |
 
 ## 入门任务
 
